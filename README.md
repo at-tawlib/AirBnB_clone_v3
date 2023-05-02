@@ -150,10 +150,14 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
+## Bugs
+No known bugs at this time. 
+
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-Abdul-Fatahu Hardi- [Github](https://github.com/at-tawlib)
+Abdul-Fatahu Hardi - [Github](https://github.com/at-tawlib)
+Emmanuel Makonde - [Github](https://github.com/mshanga)
 
 Second part of Airbnb: Joann Vuong
 ## License
